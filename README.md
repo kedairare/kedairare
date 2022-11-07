@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ---
 
-<img  display='block' style="margin:20px 20px 20px 0;" alt="vpnshopee GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shopeevpn&show_icons=true&hide_border=true&theme=tokyonight" />
+<img  display='block' style="margin:20px 20px 20px 0;" alt="vpnshopee GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kedairare&show_icons=true&hide_border=true&theme=tokyonight" />
 
 ---
 
@@ -21,4 +21,4 @@ You can click the Preview link to take a look at your changes.
 <!--RECENT_ACTIVITY:last_update-->
 
 <!--RECENT_ACTIVITY:last_update_end-->
-<h1 align="center"> VPS AutoScript Xray, V2ray, SSH & OpenVPN By RARE <img src="https://img.shields.io/badge/FREE Version-1.1-blue.svg"></h1>
+<h1 align="center"> POWERED By KEDAIRARE <img src="https://img.shields.io/badge/FREE Version-1.1-blue.svg"></h1>
